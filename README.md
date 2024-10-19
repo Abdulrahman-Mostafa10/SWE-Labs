@@ -6,4 +6,6 @@ The lab was mainly focused on decoupling the Frontend and Backend logic and inte
 The lab was mainly focused on asynchronous operations in interpreted languages such as Javascript and Typescript.
 
 ## Lab Three
-The lab focused on clean code and many concepts to avoid spaghetti or unreadable code.
+The lab focused on clean code and many concepts to avoid spaghetti or unreadable code.  
+ - I had the privilege to work with [Salma Muhammed](https://github.com/salmamuhammede).
+
