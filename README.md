@@ -7,5 +7,8 @@ The lab was mainly focused on asynchronous operations in interpreted languages s
 
 ## Lab Three
 The lab focused on clean code and many concepts to avoid spaghetti or unreadable code.  
- - I had the privilege to work with [Salma Muhammed](https://github.com/salmamuhammede).
+ - I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
 
+## Lab Four
+The lab focused on the various types of testing as a Software Developer, and implement a way of End-to-End testing by Selenium, and unit testing by Jest
+ - I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
