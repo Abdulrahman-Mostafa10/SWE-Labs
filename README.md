@@ -1,4 +1,11 @@
 # SWE_Labs
+## Checked-in Labs
+
+- [Lab One](#lab-one)
+- [Lab Two](#lab-two)
+- [Lab Three](#lab-three)
+- [Lab Four](#lab-four)
+ ---
 ## Lab One
 The lab was mainly focused on decoupling the Frontend and Backend logic and interfacing the origin and the backend server with MVC architecture.
 
@@ -7,8 +14,8 @@ The lab was mainly focused on asynchronous operations in interpreted languages s
 
 ## Lab Three
 The lab focused on clean code and many concepts to avoid spaghetti or unreadable code.  
- - I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
+- I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
 
 ## Lab Four
 The lab focused on the various types of testing a Software Developer performs and implemented End-to-End testing using Selenium and unit testing using Jest.
- - I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
+- I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
