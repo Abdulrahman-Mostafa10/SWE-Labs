@@ -104,7 +104,7 @@ def main():
         user_bob, bob_notification_decorator_for_music_channel
     )
 
-    alice_notification_decorator_for_vlog_channel = EmailNotificationDecorator(
+    alice_notification_decorator_for_vlog_channel = NotificationChannelDecorator(
         user_alice
     )
     creator_vlog_channel.add_follower(
