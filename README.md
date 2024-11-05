@@ -6,6 +6,7 @@
 - [Lab Three](#lab-three)
 - [Lab Four](#lab-four)
 - [Lab Five](#lab-five)
+- [Lab Six](#lab-six)
  ---
 ## Lab One
 The lab was mainly focused on decoupling the Frontend and Backend logic and interfacing the origin and the backend server with MVC architecture.
@@ -22,4 +23,7 @@ The lab focused on the various types of testing a Software Developer performs an
 - I had the privilege of working with [Salma Muhammed](https://github.com/salmamuhammede).
 
 ## Lab Five
-The lab focused on good software design features, OOP pillars, and SOLID principles.
+The lab focused on good Software Design Features, OOP pillars, and SOLID principles.
+
+## Lab Six
+The lab focused on understanding the value added by Design Patterns and implemented Singleton, Observer, and Decorator patterns.
